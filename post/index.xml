@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Gaurav Kamble</title>
+    <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/</link>
+    <description>Recent content in Projects on Gaurav Kamble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://gauravk1997.github.io/My-Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I : Tesla Stock Price Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-1/</link>
+      <pubDate>Thu, 20 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-1/</guid>
+      <description>Referred the Tesla Stock Price dataset from Kaggle
+  Used the feature which included the Closing Stock Prices from the dataset
+  Built a Recurrent Neural Network model using LSTM to forecast the future Stock Prices of the Tesla Company
+  Trained the DL model on 1117 records and tested it on 575 records
+  Achieved :
+ Training RMSE = 7.00 Testing RMSE = 11.</description>
+    </item>
+    
+    <item>
+      <title>Project II : Face Mask Detection</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-2/</link>
+      <pubDate>Wed, 19 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-2/</guid>
+      <description>Referred the Face Mask Detection dataset from Kaggle
+  Built a CNN model with Transfer Learning using the convolutional layers of the VGG16 model
+  Generated extra data from the existing dataset by using Data Augmentation
+  Trained the CNN model on 10,000 images, validated it on 800 images and tested the model on 992 images
+  Achieved :
+  Training Accuracy = 95.</description>
+    </item>
+    
+    <item>
+      <title>Project III : Cardiovascular Disease Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-3/</link>
+      <pubDate>Tue, 18 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-3/</guid>
+      <description>Referred the Cardiovascular Disease dataset from Kaggle
+  Built an ANN model to predict whether a person is suffering from cardiovascular disease or not
+  Performed EDA and handled outliers present within the dataset
+  Used Keras Tuner to optimize the hyperparameters of the ANN model
+  Achieved :
+ Training Accuracy = 99 % Testing Accuracy = 83 %     GitHub Link of the Project</description>
+    </item>
+    
+    <item>
+      <title>Project IV : Dissolved Oxygen Level in River Water Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-4/</link>
+      <pubDate>Mon, 17 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-4/</guid>
+      <description>Referred the Dissolved Oxygen Level in River Water dataset from Kaggle
+  The dataset contained 37 discrete features, having majority of NaN values
+  Dropped the features containing more than 60% of NaN values, and replaced the NaN values with the mean value of that feature for the important features
+  Performed EDA and handled outliers present within the dataset
+  Firstly solved the problem as a Regression setting and achieved RSquared value of 0.</description>
+    </item>
+    
+    <item>
+      <title>Project V : University Salaries Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-5/</link>
+      <pubDate>Sun, 16 May 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-5/</guid>
+      <description>Referred the University Salaries dataset from Kaggle which included the base pay of the Professors from the University of Vermount (UVM) from 2009 to 2021
+  The dataset contained 14470 records including no missing values
+  Performed EDA and found out that there are no outliers present within the dataset
+  Solved the problem using standard procedure as well as by using sklearn Pipeline</description>
+    </item>
+    
+    <item>
+      <title>Project VI : Credit Card Fraud Detection</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-6/</link>
+      <pubDate>Sat, 15 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-6/</guid>
+      <description>Referred the Credit Card Fraud Detection dataset from Kaggle
+  The provided dataset was the result of a PCA Dimensionality reduction to protect user identities and sensitive features
+  The dataset contained 284807 records with 31 features having no missing values
+  Performed EDA to find the imbalance nature of the dataset with 284315 Normal Transaction and only 492 Fraudulent Transactions
+  Performed Over Sampling method using imblearn library in order to overcome this problem</description>
+    </item>
+    
+    <item>
+      <title>Project VII :  Wine Quality Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-7/</link>
+      <pubDate>Fri, 14 May 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-7/</guid>
+      <description>Referred the Wine Quality dataset from Kaggle
+  The dataset contained 1599 records with 12 features having no missing values
+  Performed EDA and handled outliers present within the dataset
+  Used K Means Clustering : An Unsupervised Machine Learning technique to detect the clusters formed within the dataset
+  Used PCA to reduce the dimensions in order to visualize the cluster formed along with their centroids</description>
+    </item>
+    
+  </channel>
+</rss>
