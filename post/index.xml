@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Gaurav Kamble</title>
+    <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/</link>
+    <description>Recent content in Projects on Gaurav Kamble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://gauravk1997.github.io/My-Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I : E-commerce Shipping</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-1/</link>
+      <pubDate>Fri, 02 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-1/</guid>
+      <description>Aim of the Project To build an End-to-End Web App using Data Science &amp;amp; Machine Learning for an International E-commerce Company to predict whether their products will reach on committed Delivery Time or not.
+Life Cycle of the Project  Collected the dataset from Kaggle Preprocessed the data well and built an ML model by tuning the Hyperparameters of RandomForest Classifier using RandomizedSearchCV Saved the Best Performing model in a Pickle file Built a Web App using Python at the Backend with Flask API and HTML &amp;amp; Bootstrap serving at the Frontend.</description>
+    </item>
+    
+    <item>
+      <title>Project II : Face Mask Detection</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-2/</link>
+      <pubDate>Sun, 20 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-2/</guid>
+      <description>Aim of the Project To build a Web App using Deep Convolutional Neural Networks to predict whether a person is Wearing a Mask or Not
+Life Cycle of the Project  Collected the dataset from Kaggle which contained 12,000 images in total for both the classes Used Data Augmentation to generate extra data from the existing dataset Applied Transfer Learning using Pre-trained VGG16 model and built a High Performance Custom CNN Model providing an Accuracy of 99.</description>
+    </item>
+    
+    <item>
+      <title>Project III : Object Detection - Sign Language Detection</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-3/</link>
+      <pubDate>Wed, 09 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-3/</guid>
+      <description>Aim of the Project To detect Real-Time Sign Language with webcam using the Tensorflow Object Detection API
+Life Cycle of the Project  The images used for this Project were collected from the Webcam itself The Project involved 5 distinct classes to be trained upon, capturing at least 30 images for each class Labelled the images using Label Image library Setup all the required dependencies and cloned the Official Tensorflow Models GitHub Repository.</description>
+    </item>
+    
+    <item>
+      <title>Project IV : Website Phishing</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-4/</link>
+      <pubDate>Fri, 28 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-4/</guid>
+      <description>Aim of the Project To build an End-to-End Web App using Data Science &amp;amp; Machine Learning to predict whether a Website is either Legitimate or Suspicious or Phishy
+Life Cycle of the Project  Collected the dataset from Kaggle Performed Random Oversampling to handle the Imbalanced dataset and built an ML model by tuning the Hyperparameters of Support Vector Classifier using GridSearchCV Saved the Best Performing model in a Pickle file Built a Web App using Python at the Backend with Flask API and HTML &amp;amp; Bootstrap serving at the Frontend.</description>
+    </item>
+    
+    <item>
+      <title>Project V : Malaria Detection</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-5/</link>
+      <pubDate>Mon, 17 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-5/</guid>
+      <description>Aim of the Project To build a Web App using Deep Convolutional Neural Networks to predict whether a given cell image is either Parasitized (Infected with Malaria) or Uninfected
+Life Cycle of the Project  Collected the dataset from Kaggle which contained 27,558 images in total for both the classes Used Data Augmentation to generate extra data from the existing dataset Built a High Performance Custom DL Model using Convolutional Neural Networks, providing an Accuracy of 92.</description>
+    </item>
+    
+    <item>
+      <title>Project VI : Bank Note Authenctication</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-6/</link>
+      <pubDate>Sat, 01 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-6/</guid>
+      <description>Aim of the Project To build an End-to-End Web App using Data Science &amp;amp; Machine Learning to predict whether a Bank Note is Legit or not
+Life Cycle of the Project  Collected the dataset from Kaggle Preprocessed the data well and built a High Performance ML model with 100% Accuracy, Precision, Recall &amp;amp; F1score using KNN Classifier Saved the ML model in a Pickle file Built a Web App using Python at the Backend with Flask API and HTML &amp;amp; Bootstrap serving at the Frontend.</description>
+    </item>
+    
+    <item>
+      <title>Project VII : Tesla Stock Price Prediction</title>
+      <link>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-7/</link>
+      <pubDate>Fri, 16 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://gauravk1997.github.io/My-Data-Science-Portfolio/post/project-7/</guid>
+      <description>Aim of the Project To predict the Stock Price of Tesla Company using Closing Price from the Tesla Stock Price Dataset
+ Life Cycle of the Project   Referred the Tesla Stock Price dataset from Kaggle
+  Used the feature which included the Closing Stock Prices from the dataset
+  Built a Recurrent Neural Network model using LSTM to forecast the future Stock Prices of the Tesla Company</description>
+    </item>
+    
+  </channel>
+</rss>
